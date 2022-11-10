@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamodeeab4f3",
+  "tableName": "dynamodeeab4f3",
+  "partitionKey": {
+    "fieldName": "username",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
